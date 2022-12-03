@@ -1,4 +1,6 @@
 # Arboles AVL
+Integrante: Johan Sebastian Fontecha Soler - 20191578026
+
 Creación de arboles AVL en Java (inserción, eliminación, balanceo y recorrido)
 
 Ejemplo Arbol AVL
